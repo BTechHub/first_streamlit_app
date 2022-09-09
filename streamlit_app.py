@@ -1,2 +1,2 @@
 
-write('Hello, *World!* :sunglasses:')
+st.write('Hello, *World!* :sunglasses:')
